@@ -28,7 +28,7 @@ cardholder_age – Age of the customer
 is_fraud – Target variable (1 = fraud, 0 = legitimate)
 
 Analysis Performed
-1. Dataset Overview
+Dataset Overview
 
 A summary of total transactions, number of fraudulent cases, and overall fraud rate was calculated.
 
